@@ -1,1 +1,2 @@
-Hello, README!
+# CTF: NCL Reverse Engineering and Password Cracking
+![NCL](NCL.png)
