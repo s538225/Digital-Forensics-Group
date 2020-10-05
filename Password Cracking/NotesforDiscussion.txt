@@ -1,0 +1,24 @@
+09a9ab7af9aa6847689ba8f510f0145e:vilovesas 
+
+
+16a8f0dcbd61fa425b3b0a9011bcb69a:lissoy 
+
+
+32e5f63b189b78dccf0b97ac41f0d228:joybird1 
+
+
+2233287f476ba63323e60addca1f6b64:kirkles
+
+
+9997e70d60bbe73611613580d5dae3e6:gaselifl
+
+
+Ran hashcat rather than john cause john is a bitch
+would be reccomented to run john but the using unbuntu was proving to be a problimatic case
+-a 0 specifices a word list password attack 
+-m 0 specifieds the hash form and the 0 shows it is a RawMd5 hash
+- Raw means no salt on the hash
+--force bypass the graphics card
+h*.hash opens the file with the password to run through
+rockyou.txt is the wordlist that we pulled the passwords from. 
+
