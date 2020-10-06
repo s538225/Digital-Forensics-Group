@@ -1,4 +1,4 @@
-# CTF: NCL Reverse Engineering and Password Cracking
+# CTF: Password Cracking and NCL Reverse Engineering
 <p align="center">
   <img src="NCL.png" />
 </p>
@@ -15,7 +15,9 @@ Our analysts have obtained password dumps storing hacker passwords. After obtain
 
 ## Reverse Engineering
 
-Reverse Engineering
+Reverse Engineering is the reproduction of a product after thorough examination of it's components. 
+
+
 
 ### Challenge:
 We need to break into a program that the hackers have created. You will need to provide the identifier, *6470*, as the only argument to the program.
