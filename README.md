@@ -5,8 +5,7 @@
 
 
 ## Password Cracking
-
-We used hashcat to identify the passwords from the given hashvalues.
+We use hashcat to solve the given passcodes, in normal circumstance we would prefer to use John the Ripper. The John files and the Ubuntu version did not agree with each other forcing us to use hashcat in place of John.
 
 ### Challenge:
 Our analysts have obtained password dumps storing hacker passwords. After obtaining a few plaintext passwords, it appears that they overlap with the passwords from the *rockyou* breach.
