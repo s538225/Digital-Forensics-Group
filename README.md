@@ -7,7 +7,7 @@
 
 We need to break into a program that the hackers have created. You will need to provide the identifier, *6470*, as the only argument to the program.
 What is the flag?
-
+We used hashcat to identify the passwords from the given hashvalues. 
 
 ## Reverse Engineering
 
