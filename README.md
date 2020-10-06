@@ -6,14 +6,12 @@
 
 ## Password Cracking
 
-We need to break into a program that the hackers have created. You will need to provide the identifier, *6470*, as the only argument to the program.
-What is the flag?
-We used hashcat to identify the passwords from the given hashvalues. 
+We used hashcat to identify the passwords from the given hashvalues.
 
 ### Challenge:
 Our analysts have obtained password dumps storing hacker passwords. After obtaining a few plaintext passwords, it appears that they overlap with the passwords from the *rockyou* breach.
 
-[Hashcat](https://hashcat.net/hashcat/) 
+[Hashcat](https://hashcat.net/hashcat/)
 
 
 ## Reverse Engineering
@@ -25,4 +23,3 @@ We need to break into a program that the hackers have created. You will need to 
 What is the flag?
 
 [Ghidra](https://ghidra-sre.org/)
-
